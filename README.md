@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm kartavya Saini</h1>
 <h3 align="center">I am a College Student. A curious and cheerful student, exploring the world of programming</h3>
-<img align="right" alt="coding" width="400 src"https://tenor.com/view/deku-java-programing-cry-mochiatun-gif-24211286">
+<img align="right" alt="coding" width="400 src"https://www.reactiongifs.us/coding-claire-danes-2/">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kartavyasainiii&label=Profile%20views&color=0e75b6&style=flat" alt="kartavyasainiii" /> </p>
 
